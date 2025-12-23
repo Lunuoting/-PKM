@@ -56,10 +56,10 @@
   {
     "username": "zx",
     "email": "zx@test.com",
-    "password_hash": "$2b$10$08PV43HCayGpbekAR7Efz.mv50fzQYf8F7GwHVwV4Un3omay0JZFu",
+    "password_hash": "$2b$10$LU7.Y32lo7.FIs/VlXasue0OZhUr/JDb1UsYiyCP3nckp3ZyOhXjG",
     "avatar_url": null,
     "id": 7,
-    "created_at": "2025-12-23T07:50:17.857Z",
-    "updated_at": "2025-12-23T07:50:17.857Z"
+    "created_at": "2025-12-23T07:50:28.128Z",
+    "updated_at": "2025-12-23T07:50:28.128Z"
   }
 ]

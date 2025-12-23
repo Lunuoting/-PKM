@@ -47,10 +47,10 @@
   {
     "username": "test",
     "email": "202300203086@stumail.sztu.edu.cn",
-    "password_hash": "$2b$10$kbJtVz1y0EQyy1.NMnNqIOuwbex4QGZAK0r8Qdz0.F1kM4iisC11u",
+    "password_hash": "$2b$10$UwGibagDj8K.Xo0UlzjgnO8FjRrBCldRtjsdQASPy23f5pTqVgfA.",
     "avatar_url": null,
     "id": 6,
-    "created_at": "2025-12-23T02:52:30.780Z",
-    "updated_at": "2025-12-23T02:52:30.780Z"
+    "created_at": "2025-12-23T02:52:27.388Z",
+    "updated_at": "2025-12-23T02:52:27.405Z"
   }
 ]
